@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+lua -l src/setup src/main.lua
